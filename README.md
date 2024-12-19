@@ -24,7 +24,6 @@ Backend de uma aplicação de chat em tempo real utilizando **Node.js**, **Expre
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio/backend
 ```
 
 ### **2. Instale as dependências | Install the dependencies**
